@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372147589684",
+    "project_id": "e2ee-chatapp-try",
+    "storage_bucket": "e2ee-chatapp-try.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372147589684:android:fa9dc7543db2413ac5b061",
+        "android_client_info": {
+          "package_name": "com.example.e2ee_chatapp_try"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372147589684-jp9vi17o3cdn29d2885t6caejgkok0s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoKK1LMo_gn6xXW7Yh1-N_PBbywphlmkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372147589684-jp9vi17o3cdn29d2885t6caejgkok0s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.example.e2ee_chatapp
+package com.example.e2ee_chatapp_try
 
 import org.junit.Test
 
